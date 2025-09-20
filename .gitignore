@@ -48,3 +48,6 @@ build/
 .settings
 
 coverage/*
+
+# FVM Version Cache
+.fvm/
